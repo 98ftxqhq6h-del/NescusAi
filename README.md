@@ -1,5 +1,5 @@
 # Nexus v0.01
-Personal AI Agent by Sanjay
+Personal AI Agent by anurag kumar
 
 Features:
 - Chat
